@@ -14,6 +14,8 @@
 		412310E529903CAF00DD7491 /* First_ProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412310E429903CAF00DD7491 /* First_ProjectTests.swift */; };
 		412310EF29903CAF00DD7491 /* First_ProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412310EE29903CAF00DD7491 /* First_ProjectUITests.swift */; };
 		412310F129903CAF00DD7491 /* First_ProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412310F029903CAF00DD7491 /* First_ProjectUITestsLaunchTests.swift */; };
+		412310FE29923E4F00DD7491 /* TotalText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412310FD29923E4F00DD7491 /* TotalText.swift */; };
+		412311002992408200DD7491 /* CalculatorButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412310FF2992408200DD7491 /* CalculatorButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		412310EA29903CAF00DD7491 /* First ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "First ProjectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		412310EE29903CAF00DD7491 /* First_ProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = First_ProjectUITests.swift; sourceTree = "<group>"; };
 		412310F029903CAF00DD7491 /* First_ProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = First_ProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		412310FD29923E4F00DD7491 /* TotalText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalText.swift; sourceTree = "<group>"; };
+		412310FF2992408200DD7491 /* CalculatorButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +99,8 @@
 			isa = PBXGroup;
 			children = (
 				412310D329903CAD00DD7491 /* First_ProjectApp.swift */,
+				412310FD29923E4F00DD7491 /* TotalText.swift */,
+				412310FF2992408200DD7491 /* CalculatorButton.swift */,
 				412310D529903CAD00DD7491 /* ContentView.swift */,
 				412310D729903CAF00DD7491 /* Assets.xcassets */,
 				412310D929903CAF00DD7491 /* Preview Content */,
@@ -259,6 +265,8 @@
 			files = (
 				412310D629903CAD00DD7491 /* ContentView.swift in Sources */,
 				412310D429903CAD00DD7491 /* First_ProjectApp.swift in Sources */,
+				412310FE29923E4F00DD7491 /* TotalText.swift in Sources */,
+				412311002992408200DD7491 /* CalculatorButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
